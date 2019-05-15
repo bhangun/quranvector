@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/bhangun/quranvector/issues"
   },
-  "homepage": "https://github.com/bhangun/quranvector#readme"
+  "homepage": "https://github.com/bhangun/quranvector#readme",
+  "dependencies": {
+    "vectorize-text": "^3.2.1"
+  }
 }
